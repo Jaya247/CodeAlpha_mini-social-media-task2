@@ -1,4 +1,5 @@
 # CodeAlpha Task 2 — Mini Social Media Platform
+https://code-alpha-mini-social-media-task2.vercel.app
 
 A complete beginner-friendly mini social media platform built with **HTML, CSS, JavaScript and Express.js**.
 
