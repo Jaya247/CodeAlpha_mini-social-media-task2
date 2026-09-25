@@ -10,7 +10,7 @@ A complete beginner-friendly mini social media platform built with **HTML, CSS, 
 - Like/unlike posts
 - Comments on posts
 - Follow/unfollow users through API
-- Persistent JSON database (`data/db.json`)
+- Persistent JSON database (`data/db.json`) 
 - Responsive UI
  
 ## Run locally
