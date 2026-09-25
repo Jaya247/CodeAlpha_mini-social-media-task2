@@ -12,7 +12,7 @@ A complete beginner-friendly mini social media platform built with **HTML, CSS, 
 - Follow/unfollow users through API
 - Persistent JSON database (`data/db.json`)
 - Responsive UI
-
+ 
 ## Run locally
 1. Install Node.js 22 LTS (recommended for this project).
 2. Open this folder in VS Code.
